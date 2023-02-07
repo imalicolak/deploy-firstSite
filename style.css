@@ -7,3 +7,9 @@ h1{
 .orange{
     color: orange;
 }
+#myID{
+    color: red;
+}
+.large{
+    font-size: x-large;
+}
